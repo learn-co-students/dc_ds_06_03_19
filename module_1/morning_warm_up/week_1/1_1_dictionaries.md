@@ -1,6 +1,3 @@
-# First import packages
-`from __future__ import division `
-
 ### 1. Create a dictionary where each object contains a list of one float (Age) and one string (Family name) (at least 5 objects)
 
 Example:
