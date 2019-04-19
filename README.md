@@ -8,6 +8,11 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_ol6td9qn7mv33socuqn1195oqc%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"> calendar</iframe>
 
 
+### Important links 
+
+ [student master sheet](https://docs.google.com/spreadsheets/d/1gx4sfDQXYgk5xknYquXZEzZ6qmrJXc1rtesc5BPYKG0/edit#gid=0)
+
+
 
 ### Week I 
 
