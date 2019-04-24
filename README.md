@@ -1,9 +1,6 @@
 
-### This is the latest change from 11:92 pm by nick
 
 # Data science fellowship 04/22/19 
-
-
 
 
 
@@ -27,7 +24,4 @@
 | Morning video   | <a href="">  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href="">TBD</a> |
 | Afternoon code  | <a href="http://ae-flatiron.s3-website-us-east-1.amazonaws.com/slides-flatiron-terminal.html#/"> Terminal </a>   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_1/welcome_to_git_day_1_lec_2.pdf"> Git </a> |   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/lecture_1_day_2_python-101-assignment-to-loops">assignment to loops</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/lecture_2_day_3_numpy_n_pandas">pandas & numpy intro</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/lecture_2_day_4_visualizations-matplotlib">matplotlib</a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
-
-
-### Hello :) 
 
