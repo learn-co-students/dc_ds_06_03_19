@@ -1,4 +1,4 @@
-https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif
+![Alt Text](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
 
 
 # [HARD] warm-up
