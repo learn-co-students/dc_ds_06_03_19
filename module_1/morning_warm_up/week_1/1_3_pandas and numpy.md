@@ -29,7 +29,3 @@ Co2 (column 3) enteries with the value -99.99 (these are missing values) and rep
 12. Create a branch in github repository called warm_up_draft   
 
 13. push the notebook with the name CO2 to your new branch on github.
-
-*** Optional 
-
-Open the notebook from yesterday and create a programme that selects randomly pairings of people. (hints: use numpy.random.choice)
