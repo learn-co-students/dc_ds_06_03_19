@@ -21,6 +21,7 @@
  - cond_df is an array of the column you want to condition your split on
  - the idea is to use np.where on the condition column to get the indices on which the full dataset will be split
  - once we have the indices we can use them on the full dataset to make the split. Notice: the indices of the conditioned column and the pandas df are one and the same.
+ - X are all the features and Y should be the CO2 column - please split them before executing the function and assign them to X annd Y 
  
 `def tr_te_split(X, Y, cond_df, cond):`
 

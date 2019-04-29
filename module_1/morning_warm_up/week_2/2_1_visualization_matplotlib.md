@@ -5,6 +5,8 @@
 `from IPython.display import Image`
 
 ### 1. open the notebook from yesterday through the command line
+- last time we picked columns 0, 1 and 3. Choose this time columns 0, 1, 3 and 4.
+- Whenever there is a missing value (-99.99) replace it with the corresponding value at column 4.
 
 ### 2. 
  - Create a new directory in your documents folder
