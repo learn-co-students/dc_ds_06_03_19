@@ -22,7 +22,7 @@
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/day_3_lecture_1_python_202_adv_loops">advanced loops</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/day_4_lecture_1_manipulating_with_pandas">manipulating with pandas</a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href="">TBD</a> |
 | Afternoon code  | <a href="http://ae-flatiron.s3-website-us-east-1.amazonaws.com/slides-flatiron-terminal.html#/"> Terminal </a>   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_1/welcome_to_git_day_1_lec_2.pdf"> Git </a> |   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/day_2_lecture_1_python-101-assignment-to-loops">assignment to loops</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/day_3_lecture_2_numpy_n_pandas">pandas & numpy intro</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/day_4_lecture_2_matplotlib">matplotlib</a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href="https://www.youtube.com/watch?v=9-M5qrCMPmg&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=2&t=0s"> loops </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
+| Afternoon video | <a href="">  </a> | <a href="https://www.youtube.com/watch?v=9-M5qrCMPmg&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=2&t=0s"> assignment to loops video </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
 
 
 
