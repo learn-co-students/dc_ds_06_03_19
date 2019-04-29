@@ -4,7 +4,7 @@
 
 `from IPython.display import Image`
 
-### 1. open the notebook from yesterday through the command line
+### 1. open the notebook with the CO2 data through the command line
 
 ### 2. 
  - Create a new directory in your documents folder
