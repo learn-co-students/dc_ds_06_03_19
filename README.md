@@ -24,3 +24,18 @@
 | Afternoon code  | <a href="http://ae-flatiron.s3-website-us-east-1.amazonaws.com/slides-flatiron-terminal.html#/"> Terminal </a>   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_1/welcome_to_git_day_1_lec_2.pdf"> Git </a> |   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/day_2_lecture_1_python-101-assignment-to-loops">assignment to loops</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/day_3_lecture_2_numpy_n_pandas">pandas & numpy intro</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/day_4_lecture_2_matplotlib">matplotlib</a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
 
+
+
+### Week II 
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_1/morning_warm_up/week_1/1_5_visualization_matplotlib.md">matplotlib</a> <br><a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/morning_warm_up/week_2/solutions">solution</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_1/morning_warm_up/week_2/2_1_apply_lambda_gb_plt.md">apply, lambda & groupby</a> <br><a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/morning_warm_up/week_2/solutions">solution</a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_1/morning_warm_up/week_1/1_6_simulation_np_random_n_dict.md">dict + numpy random</a><br><a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/morning_warm_up/week_2/solutions">solution</a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_1/morning_warm_up/week_2/2_3_histogram_lr_creation.md">Linear regression</a><br><a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/morning_warm_up/week_2/solutions">solution</a> |
+| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""></a> | <a href=""></a> | <a href=""></a> |
+| Morning video   | <a href="">  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href="">TBD</a> |
+| Afternoon code  | <a href="">  </a>   <a href="">  </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon video | <a href="">  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
+
+
+
+
