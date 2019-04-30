@@ -34,7 +34,7 @@
 | Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/week_2/day_6_lecture_1_pandas_3">Tidy data</a> | <a href=""></a> | <a href=""></a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href="">TBD</a> |
 | Afternoon code  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/week_2/day_6_lecture_2_code_best_practices"> Coding best practices </a>   <a href="">  </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
+| Afternoon video | <a href="https://www.youtube.com/watch?v=ZAnxVtVAvgE&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=6">Best practice video  </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
 
 
 
