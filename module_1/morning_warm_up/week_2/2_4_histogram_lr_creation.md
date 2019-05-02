@@ -3,6 +3,8 @@
  `
 `import seaborn as sns`
 
+`import numpy as np`
+
 ### 1. Create fake data from normal distribution with 100 observations
 
 `use numpy random.normal`
