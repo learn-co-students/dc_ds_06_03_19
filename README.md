@@ -42,10 +42,10 @@
 
 |                 | Six                                       | Seven                                       | Eight                                     | Nine                                      | Ten                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up    | <a href=""></a> <br><a href=""></a>  | <a href="">/a> <br><a href="">solution</a>| <a href=""></a><br><a href="">solution</a> | <a href=""></a><br><a href="">solution</a> |
+| Warm-up    | <a href=""></a> <br><a href=""></a>  | <a href=""></a> <br><a href="">solution</a>| <a href=""></a><br><a href="">solution</a> | <a href=""></a><br><a href="">solution</a> |
 | Morning code    | <a href=""></a> | <a href=""></a> | <a href=""></a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""> TBD </a> | <a href="">TBD</a> |
-| Afternoon code  | <a href=""> Coding best practices </a>  | <a href=""> </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
 
 
