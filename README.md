@@ -44,9 +44,9 @@
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href=""></a> <br><a href=""></a>  | <a href=""></a> <br><a href="">solution</a>| <a href=""></a><br><a href="">solution</a> | <a href=""></a><br><a href="">solution</a> |
 | Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_16_lecture_1_sql">Sql</a> | <a href=""></a> | <a href=""></a> | <a href=""></a> | <a href=""></a> |
-| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""> TBD </a> | <a href="">TBD</a> |
+| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href=""> TBD </a> | <a href=""> TBD </a> | <a href=""> TBD </a> |
+| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
 
