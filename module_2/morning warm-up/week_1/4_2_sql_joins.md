@@ -1,8 +1,8 @@
 # SQL Joins
 
 ### Import packages 
-```sqlite3
-   pandas```
+sqlite3
+pandas
    
 ### Connect to databases cats.db, dogs.db and owners.db using sqlite3 (use for example conn = sqlite3.connect('cats.db') and then c = conn.cursor())
 
