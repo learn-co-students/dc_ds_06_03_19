@@ -43,9 +43,9 @@
 |                 | Eleven                                       | Twelve                                       | thirteen                                     | Fourteen                                      | Fifteen                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/morning%20warm-up/week_1/4_1_matrix_multi_multi_reg.md">Matrix multiplication+ regression</a> <br><a href="">solution</a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/morning%20warm-up/week_1/4_2_sql_joins.md">SQL joins</a><br><a href="">solution</a> | <a href=""></a><br><a href="">solution</a> |
-| Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_16_lecture_1_sql">Sql</a> | <a href=""></a> | <a href=""></a> | <a href=""></a> | <a href=""></a> |
+| Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_16_lecture_1_sql">Sql</a> | <a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_18_lecture_1_json"> JSON</a> | <a href=""></a> | <a href=""></a> |
 | Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
+| Afternoon code  | <a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_17_lecture_1_oop"> OOP</a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
 
 
