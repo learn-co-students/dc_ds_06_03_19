@@ -1,4 +1,10 @@
-###Will there be a SQL?
+# SQL Joins
+
+### Import packages 
+sqlite3
+pandas
+   
+### Connect to databases cats.db, dogs.db and owners.db using sqlite3 (use for example conn = sqlite3.connect('cats.db') and then c = conn.cursor())
 
 Let's try and work through some exercises to recap and retain the foundational knowledge of the language that our beloved databases use.
 

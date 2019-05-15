@@ -1,0 +1,96 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "708",
+                    "short_name": "708",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Main street",
+                    "short_name": "Main St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central Business District",
+                    "short_name": "Central Business District",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Houston",
+                    "short_name": "Houston",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Harris County",
+                    "short_name": "Harris County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Texas",
+                    "short_name": "TX",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "77002",
+                    "short_name": "77002",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "708 Main St, Houston, TX 77002, USA",
+            "geometry": {
+                "location": {
+                    "lat": 29.7590859,
+                    "lng": -95.3636325
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.7604348802915,
+                        "lng": -95.3622835197085
+                    },
+                    "southwest": {
+                        "lat": 29.7577369197085,
+                        "lng": -95.3649814802915
+                    }
+                }
+            },
+            "place_id": "ChIJ33MU3Dq_QIYRLea64akdlgQ",
+            "plus_code": {
+                "compound_code": "QJ5P+JG Downtown Houston, Houston, TX, United States",
+                "global_code": "76X6QJ5P+JG"
+            },
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "status": "OK"
+}
