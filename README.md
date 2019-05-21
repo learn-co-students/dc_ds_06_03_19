@@ -10,7 +10,7 @@
 
 ### Important links 
 
- [student master sheet](https://docs.google.com/spreadsheets/d/1gx4sfDQXYgk5xknYquXZEzZ6qmrJXc1rtesc5BPYKG0/edit#gid=0)
+ [student master sheet](https://docs.google.com/spreadsheets/d/1n1SrV6VJU9pqTIsLIiX242YOrs3-f572thMlEgFxvms/edit#gid=0)
 
 
 
