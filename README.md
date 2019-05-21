@@ -35,31 +35,3 @@
 | Morning video   | <a href="">  </a> | <a href="https://www.youtube.com/watch?v=2WOMr1-wdyQ&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=8&t=0s"> seaborn video </a> | <a href="https://www.youtube.com/watch?v=EMEXCz3bcdQ&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=9&t=0s"> multiple linear regression video </a> | <a href="">  </a> | <a href=""></a> |
 | Afternoon code  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/week_2/day_6_lecture_2_code_best_practices"> Coding best practices </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/week_2/day_7_lecture_2_linear_regression"> Linear regression </a> |   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/week_2/day_8_feature_scaling">Feature scaling & manipulation</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_1/week_2/day_9_quality_deliverables">Quality deliverables</a> | <a href=""></a> | <a href=""></a> |
 | Afternoon video | <a href="https://www.youtube.com/watch?v=ZAnxVtVAvgE&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=6">Best practice video  </a> | <a href="https://www.youtube.com/watch?v=wAIprkeCllY&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=10&t=0s"> linear regression video </a> | <a href="">  </a> | <a href="https://youtu.be/Y8QP-x33u2U"> Quality deliverables video </a> | <a href="">  </a> |
-
-
-
-### Week IV
-
-|                 | Eleven                                       | Twelve                                       | thirteen                                     | Fourteen                                      | Fifteen                                      |
-|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up    | <a href=""></a> <br><a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/morning%20warm-up/week_1/4_1_matrix_multi_multi_reg.md">Matrix multiplication+ regression</a> <br><a href="">solution</a>| <a href="https://github.com/learn-co-students/dc_ds_04_22_19/blob/master/module_2/morning%20warm-up/week_1/4_2_sql_joins.md">SQL joins</a><br><a href="">solution</a> | <a href=""></a><br><a href=""></a> |
-| Morning code    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_16_lecture_1_sql">Sql</a> | <a href=""></a> | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_18_lecture_1_json"> JSON</a> | <a href=""></a> | <a href=""></a> |
-| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_17_lecture_1_oop"> OOP</a> |   <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_18_lecture_2_apis">APIs</a>  | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/week_1/day_19_lecture_1_webscraping">Scraping</a> | <a href=""></a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
-
-
-
-
-### Week V
-
-|                 | Sixteen                                       | Seventeen                                       | Eighteen                                     | Nineteen                                      | Twenty                                      |
-|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up    | <a href="https://github.com/learn-co-students/dc_ds_04_22_19/tree/master/module_2/morning%20warm-up/week_2">APIs</a> <br><a href=""> </a>  | <a href=""></a> <br><a href=""></a>| <a href=""></a><br><a href=""></a> | <a href=""></a><br><a href=""></a> |
-| Morning code    | <a href=""></a> | <a href=""></a> | <a href=""> </a> | <a href=""></a> | <a href=""></a> |
-| Morning video   | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> | <a href=""></a> |
-| Afternoon code  | <a href=""> </a>  | <a href=""> </a> |   <a href=""></a>  | <a href=""></a> | <a href=""></a> | <a href=""></a> |
-| Afternoon video | <a href="">  </a> | <a href=""></a> | <a href="">  </a> | <a href="">  </a> | <a href="">  </a> |
-
-
-
