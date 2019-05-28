@@ -6,7 +6,7 @@
 
 ### Data science calendar
 
-[Calendar](https://calendar.google.com/calendar/embed?src=flatironschool.com_ol6td9qn7mv33socuqn1195oqc%40group.calendar.google.com&ctz=America%2FNew_York)
+[Calendar](https://calendar.google.com/calendar/embed?src=flatironschool.com_j24p7hgali8alsd6f6qsbc55q0%40group.calendar.google.com&ctz=America%2FNew_York)
 
 ### Important links 
 
