@@ -2,7 +2,7 @@
 
 # Data science fellowship 06/03/19 
 
-
+What up, Cliff
 
 ### Data science calendar
 
