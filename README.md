@@ -35,7 +35,7 @@
 | Afternoon video | <a href="https://www.youtube.com/watch?v=5zfa8RKTxUw">Pandas Part 2.5</a> | <a href="https://www.youtube.com/watch?v=IjE9MvvNy2s&list=PLc6AmvC5ZybyZCu8K1rwafSap6dCTwQ-B&index=3"> </a> | <a href="https://www.youtube.com/watch?v=VnZGrhD7sxk&list=PLc6AmvC5ZybyZCu8K1rwafSap6dCTwQ-B&index=4"> </a> | <a href="https://www.youtube.com/watch?v=dhtd7h5XFxY&list=PLc6AmvC5ZybwJp0o8Kv0Ks5a0idq8eiOW&index=5&t=0s">  </a> | <a href=""> </a> |
 
 
-| One             | Two                                                                                                                                                                | Three                       | Four         | Five       | 
+| | One             | Two                                                                                                                                                                | Three                       | Four         | Five       | 
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------|------------| 
 | Warm-up         | <a href = "https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_1/morning_warm_up/week_1/1_4_numpy_func_tr_test_split.md"> Train/Test Split </a> | Categorical & Normalization | numpy & dict | matplotlib | 
 | Morning code    | Pandas Part 2                                                                                                                                                      |                             |              |            | 
