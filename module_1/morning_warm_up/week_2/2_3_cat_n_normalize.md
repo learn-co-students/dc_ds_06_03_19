@@ -10,7 +10,7 @@
 
 #### 3. Transform month and year to categorical variables 
 
-`Use pd.dummy`
+`Use pd.get_dummies`
 
 #### 4. For practice purposes only let's create a function that gets a df and a column name and outputs a normalized column
  - a column of our choice --> here we'll test the CO2 column 
