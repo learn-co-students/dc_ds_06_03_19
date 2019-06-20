@@ -41,7 +41,7 @@
 
 |                 |           |           |           |                                                                                                                                                                    |      | 
 |-----------------|-----------|-----------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------| 
-| Week 3          | One       | Two       | Three     | Four                                                                                                                                                               | Five | 
+|          | One       | Two       | Three     | Four                                                                                                                                                               | Five | 
 | Warm-up         | PROJECT 1 | PROJECT 1 | PROJECT 1 | <a href = "https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_2/morning_warmup/week_1/1_1_merging_in_pandas_warmup.md"> Merging in pandas </a> |      | 
 | Morning code    |           |           |           |                                                                                                                                                                    |      | 
 | Morning video   |           |           |           |                                                                                                                                                                    |      | 
