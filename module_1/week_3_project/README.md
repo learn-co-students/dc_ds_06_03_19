@@ -42,6 +42,11 @@ All data lives in [`./data/`](./data)
   - documentation
     - all data comes from https://developers.themoviedb.org/3/discover/movie-discover
     - Again, only 2010-2018 movies have been included.
+  - data
+    - tn.movie_budgets.csv.gz
+  - documentation
+    - This comes straight from [The-Numbers.com](https://www.the-numbers.com/movie/budgets/all)
+    - this includes all data from The Numbers! it is not subset to 2010-2018
 - More data!
   - if you find data you think is helpful, or if there is a data set you don't know how to access but are interested in, please feel free to ask for instructor help via Slack.
 
