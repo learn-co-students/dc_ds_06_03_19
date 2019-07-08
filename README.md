@@ -67,3 +67,14 @@
 | Afternoon code  | <a href = "https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_3/week_1/day_1_numpy_lab/NumPy%20Probability%20Lab%20-%20enkeboll.ipynb">Probability and NumPy</a>       |                                                                                                                                                                  | <a href = "https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_3/week_1/day_3_sampling_clt/sampling-enkeboll.ipynb">Sampling and Central Limit Theorem</a> |           |      | 
 | Afternoon video | <a href = "https://youtu.be/i-iE6QIlCTk">Probability and NumPy</a>                                                                                                                         |                                                                                                                                                                  | <a href = "https://youtu.be/Du_hy2wzv0I">Sampling and Confidence </a>                                                                                                         |           |      | 
 
+
+
+### Week VI
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         | <a href = "https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_3/morning_warmup/week_2/6_1_t-test.md">t-test</a> |     |       |      |      | 
+| Morning code    |                                                                                                                                     |     |       |      |      | 
+| Morning video   |                                                                                                                                     |     |       |      |      | 
+| Afternoon code  |                                                                                                                                     |     |       |      |      | 
+| Afternoon video |                                                                                                                                     |     |       |      |      | 
