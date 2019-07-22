@@ -93,3 +93,13 @@
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
 
 
+
+### Week VIII
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         |       |            |         |        |       | 
+| Morning code    | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_4/week-2/day-1-gradient-descent">Gradient Descent</a>     |                                                                                                                                              |       | |    | 
+| Morning video   |  <a href="https://www.youtube.com/watch?v=nxF1AgTJdrs">Gradient Descent</a>                                                                        |                                                                                                                             |       |  |      | 
+| Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
+| Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
