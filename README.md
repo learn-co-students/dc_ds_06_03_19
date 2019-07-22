@@ -81,3 +81,15 @@
 | Afternoon code  |                                                                                                                                                                           |  <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_3/week_2/day_2_A%7CB%20Testing/A%7CB-Testing-Coach-Lab-Jonnel.ipynb">A/B Testing</a>                                                                                                                                               |       |      |      | 
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |  <a href = "https://youtu.be/WXwkWxM0b0s">Mod 3 Project Kickoff</a>    | 
 
+
+### Week VII
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         | PROJECT 2                                   | PROJECT 2 |  PROJECT 2  |    |    | 
+| Morning code    |  |                                                                                                                                                 |       | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_4/week-1/day-1-linear-regression">Regression</a>   |  <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_4/week-1/day-2-multiple-regression/multivariable-linear-regression-enkeboll.ipynb">Multiple Regressions</a>    | 
+| Morning video   |                                                                          |                                                                                                                             |       |  <a href="https://www.youtube.com/watch?v=uamgJ3LaVww">Regression</a>    |  <a href="https://youtu.be/MAtHbaI611o">Multiple Regressions</a>      | 
+| Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
+| Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
+
+
