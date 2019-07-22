@@ -86,9 +86,9 @@
 
 |                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
-| Warm-up         | PROJECT 2                                   | PROJECT 2 |  Project 2  |    |      | 
+| Warm-up         | PROJECT 2                                   | PROJECT 2 |  PROJECT 2  |    |    | 
 | Morning code    |  |                                                                                                                                                 |       |    |      | 
-| Morning video   |                                                                          |                                                                                                                             |       |      |      | 
+| Morning video   |                                                                          |                                                                                                                             |       |      |  <a href="https://youtu.be/MAtHbaI611o">Multiple Regressions</a>      | 
 | Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
 
