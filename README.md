@@ -103,3 +103,15 @@
 | Morning video   |  <a href="https://www.youtube.com/watch?v=nxF1AgTJdrs">Gradient Descent</a>                                                                        |                                                                                                                             | <a href="https://www.youtube.com/watch?v=ADGjO8GTaYY&feature=youtu.be">Logistic Regression</a>      |  |  <a href="https://www.youtube.com/watch?v=eaMUkAVixoA">Time Series Analysis</a>    | 
 | Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
+
+### Week IX
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         |       |            |         |        |       | 
+| Morning code    |     |                                                                                                                                              |       | |    | 
+| Morning video   |                                                                     |                                                                                                                             |      |  |     | 
+| Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
+| Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
+
+
