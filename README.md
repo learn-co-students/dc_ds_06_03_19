@@ -115,3 +115,13 @@
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
 
 
+### Week X
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         |       |            |         |        |       | 
+| Morning code    |   <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-2/day-1-random-forest/random-forest.ipynb">Random Forests</a>  |     |       | |  | 
+| Morning video   |  <a href="https://www.youtube.com/watch?v=PogVA1Zkt7M">Random Forests</a>   |    |      |  |     | 
+| Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
+| Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
+
