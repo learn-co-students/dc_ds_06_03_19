@@ -133,6 +133,6 @@
 | Warm-up         |       |            |      |     |      | 
 | Morning code    |       |            |      |     |      | 
 | Morning video   |       |            |      |     |      | 
-| Afternoon code  |       |            |      |     |      | 
-| Afternoon video |       |            |      |     |      | 
+| Afternoon code  | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_5/week-3/day-1-recommendation-systems">Recommendation System in PySpark</a>      |            |      |     |      | 
+| Afternoon video | <a href="https://www.youtube.com/watch?v=wncL_X7DoE0">Recommendation System in PySpark</a>      |            |      |     |      | 
 
