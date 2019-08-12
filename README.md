@@ -124,3 +124,15 @@
 | Morning video   |  <a href="https://www.youtube.com/watch?v=PogVA1Zkt7M">Random Forests</a>   | <a href="https://youtu.be/mTe-laSnYrg">SVM</a>   | <a href="https://youtu.be/Zf5D7VX0sdg">PCA</a>     |  |  <a href="https://www.youtube.com/watch?v=QsyZ-NcTCLg">PySpark Intro</a>  | 
 | Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
+
+
+### Week XI
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         |       |            |      |     |      | 
+| Morning code    |       |            |      |     |      | 
+| Morning video   |       |            |      |     |      | 
+| Afternoon code  |       |            |      |     |      | 
+| Afternoon video |       |            |      |     |      | 
+
