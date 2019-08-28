@@ -21,8 +21,8 @@ Example:
 
 ### 6. Go to terminal, navigate to the folder where you have saved the script and execute it through the terminal
 
-`use commandds: 
-cd and 
+`use commands: 
+cd  
 python your_script.py`
 
 
