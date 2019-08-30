@@ -21,9 +21,9 @@ Example:
 
 ### 6. Go to terminal, navigate to the folder where you have saved the script and execute it through the terminal
 
-`use commandds: 
-cd and 
-python your_script.py`
+`use commands: 
+cd`  
+`python your_script.py`
 
 
 ### [optional] Calculate with a for loop the median and mean of the ages list
